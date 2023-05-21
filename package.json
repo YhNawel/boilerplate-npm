@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Nawel",
+	"author": "nawel_nawel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
